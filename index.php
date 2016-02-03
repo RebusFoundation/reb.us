@@ -48,7 +48,7 @@
   </div>
 
   <div class="section">
-    <h3>How are we doing this?</h3>
+    <h3>How are we doing that?</h3>
     <p>Rebus works with a global network of universities, professors and students to publish textbooks in an open and collaborative publishing model.
 
     <p>Rebus textbooks are open WebBooks which embrace the structures and expectations we have of books, and add the power of the Open Web.</p>
@@ -58,8 +58,18 @@
   </div>
 
   <div class="section">
-    <h3>Why are we doing what we are doing?</h3>
+    <h3>Why are we doing it?</h3>
     <p>Books and textbooks are central tools in our intellectual lives. They are, literally, the documentation of human knowledge and experience. Rebus is building an open, web-based platform to encourage deeper engagement, and to enable people (and machines), to use and build on books and reading in new and meaningful ways.</p>
+    <!--p>
+      <a href="/openwebbooks/" title="Rebus Open Web Books">More about Open Web Books >></a>
+    </p-->
+  </div>
+
+  <div class="section">
+    <h3>Where are we at?</h3>
+    <p>We're at the very start of this. Over the last year, we've figured out a whole bunch of hunches, and we've <a href="http://pressbooks.com/" title="Pressbooks">built</a> <a href="https://librivox.org/" title="LibriVox">some</a> <a href="http://boris.libra.re/library/" title="Librare">parts</a> of what we think we'll need.</p>
+    <p>We'll shortly need help with engineering, development, community, and advice of all kinds.</p>
+    <p>If you're interested or curious, please don't hesitate to get in touch below!</p>
     <!--p>
       <a href="/openwebbooks/" title="Rebus Open Web Books">More about Open Web Books >></a>
     </p-->
