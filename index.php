@@ -51,7 +51,7 @@
     <h3>How are we doing that?</h3>
     <p>Rebus works with a global network of universities, professors and students to publish textbooks in an open and collaborative publishing model.
 
-    <p>Rebus textbooks are open WebBooks which embrace the structures and expectations we have of books, and add the power of the Open Web.</p>
+    <p>Rebus textbooks are Open Webbooks which embrace the structures and expectations we have of books, and add the power of the Open Web.</p>
     <!--p>
       <a href="/openwebbooks/" title="Rebus Open Web Books">More about Open Web Books >></a>
     </p-->
@@ -82,7 +82,7 @@
         <h4>Hugh McGuire</h4>
         <img class="thumbnail" src="/img/profiles/hughmcguire.png" alt="Hugh McGuire" />
         <p>
-          Hugh has been building web tools and communities that bring books onto the web for a decade. He is the founder of <a href="http://LibriVox.org" title="LibriVox">LibriVox</a>, <a href="http://pressbooks.com/" title="Pressbooks">Pressbooks</a>, and the co-editor of “<a href="http://www.amazon.com/Book-Futurists-Manifesto-Collection-Publishing/dp/1449305601" title="Book: A Furturist’s Manifesto — Essays from the bleeding edge of publishing">Book: A Furturist’s Manifesto</a>.”
+          Hugh has been building web tools and communities that bring books onto the web for a decade. He is the founder of <a href="http://LibriVox.org" title="LibriVox">LibriVox</a>, <a href="http://pressbooks.com/" title="Pressbooks">Pressbooks</a>, <a href="http://iambik.com">iambik</a> and the co-editor of “<a href="http://www.amazon.com/Book-Futurists-Manifesto-Collection-Publishing/dp/1449305601" title="Book: A Furturist’s Manifesto — Essays from the bleeding edge of publishing">Book: A Furturist’s Manifesto</a>.”
           <br>
           You can find him @<a href="https://twitter.com/hughmcguire" title="Hugh On Twitter">hughmcguire</a>.
         </p>
