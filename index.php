@@ -67,7 +67,7 @@
 
   <div class="section">
     <h3>Where are we at?</h3>
-    <p>We're at the very start of this. Over the last year, we've figured out a whole bunch of hunches, and we've <a href="http://pressbooks.com/" title="Pressbooks">built</a> <a href="https://librivox.org/" title="LibriVox">some</a> <a href="http://boris.libra.re/library/" title="Librare">parts</a> of what we think we'll need.</p>
+    <p>We're at the very start of this. Over the last year, we've figured out a whole bunch of solid hunches, gotten great feedback and we've even <a href="http://pressbooks.com/" title="Pressbooks">built</a> <a href="https://librivox.org/" title="LibriVox">some</a> <a href="http://boris.libra.re/library/" title="Librare">parts</a> of what we think we'll need.</p>
     <p>We'll shortly need help with engineering, development, community, and advice of all kinds.</p>
     <p>If you're interested or curious, please don't hesitate to get in touch below!</p>
     <!--p>
